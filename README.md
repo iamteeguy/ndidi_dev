@@ -1,2 +1,2 @@
 # ndidi_dev
-My Personal developer portfolio for developing and testing my code 
+My Personal developer portfolio_projects, experiments,and growth in code.
